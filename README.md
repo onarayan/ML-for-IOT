@@ -9,3 +9,10 @@ Your task
 To predict traffic patterns in each of these four junctions for the next 4 months.
 
 The sensors on each of these junctions were collecting data at different times, hence you will see traffic data from different time periods. To add to the complexity, some of the junctions have provided limited or sparse data requiring thoughtfulness when creating future projections. Depending upon the historical data of 20 months, the government is looking to you to deliver accurate traffic projections for the coming four months. Your algorithm will become the foundation of a larger transformation to make your city smart and intelligent.
+# Evaluation Metric
+The evaluation metric for this competition is Root Mean Squared Error (RMSE)
+
+Public and Private split
+Note that the test data is further randomly divided into Public (25%) and Private (75%) data. Your initial responses will be checked and scored on the Public data.
+
+The final rankings would be based on your private score which will be published once the competition is over.
